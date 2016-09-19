@@ -8,6 +8,11 @@
   "description": "Compare your website before and after making changes",
   "homepage": "https://github.com/bumbu/website-visual-diff",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "*",
+    "resemble": "*",
+    "promise-semaphore": "*",
+    "website-screenshot": "*"
+  },
   "devDependencies": {}
 }
