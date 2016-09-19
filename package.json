@@ -12,7 +12,7 @@
     "chalk": "*",
     "resemble": "*",
     "promise-semaphore": "*",
-    "website-screenshot": "*"
+    "website-screenshot": "git+ssh://git@github.com:bumbu/website-screenshot.git"
   },
   "devDependencies": {}
 }
