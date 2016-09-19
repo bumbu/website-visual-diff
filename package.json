@@ -1,0 +1,13 @@
+{
+  "name": "website-visual-diff",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bugs": {
+    "url": "https://github.com/bumbu/website-visual-diff/issues"
+  },
+  "description": "Compare your website before and after making changes",
+  "homepage": "https://github.com/bumbu/website-visual-diff",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
