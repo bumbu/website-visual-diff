@@ -1,6 +1,6 @@
 {
   "name": "website-visual-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "bugs": {
     "url": "https://github.com/bumbu/website-visual-diff/issues"
@@ -12,7 +12,7 @@
     "chalk": "*",
     "resemble": "*",
     "promise-semaphore": "*",
-    "website-screenshot": "git+ssh://git@github.com:bumbu/website-screenshot.git"
+    "website-screenshot": "^1.0.0"
   },
   "devDependencies": {}
 }
