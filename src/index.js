@@ -166,6 +166,8 @@ function loadAndSaveShoots(settings, folderPath) {
             height : size.height,
             page: size.page === undefined ? true : size.page,
             cookies: settings.cookies,
+            auth: settings.auth,
+            delay: settings.delay,
           })
           .then(function(img){
             var fileName = getFileName(page, size);
