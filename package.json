@@ -1,6 +1,6 @@
 {
   "name": "website-visual-diff",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "bugs": {
     "url": "https://github.com/bumbu/website-visual-diff/issues"
