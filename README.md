@@ -9,11 +9,21 @@ var VISUAL_DIFF_CONFIG = {
 
   urlBase: 'http://localhost:8000',
 
+  // Optional
   cookies: [{
     url: 'http://localhost:8000/',
     name: 'my-secret-cookie',
     value: 'any-cookie',
   }],
+
+  // Optional
+  auth: {
+    user: 'bumbu',
+    password: 'password'
+  },
+
+  // Optional
+  delay: 1000, // 1 second
 
   sizes: [{
     // Mobile
