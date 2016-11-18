@@ -1,6 +1,10 @@
 # website-visual-diff
 Compare your website before and after making changes
 
+## Demo
+
+* [Remote website demo](https://github.com/bumbu/visual-diff-demo)
+
 ## Requirements
 * Nodejs
 * Gulp
