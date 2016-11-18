@@ -1,6 +1,11 @@
 # website-visual-diff
 Compare your website before and after making changes
 
+## Requirements
+* Nodejs
+* Gulp
+* [Node-canvas deps](https://github.com/Automattic/node-canvas#installation)
+
 ## Using with gulp
 
 ```js
